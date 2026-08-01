@@ -14,3 +14,5 @@ venvs
 build
 .mcp.json
 uv.lock
+UNKNOWN.egg-info/
+__pycache__/
